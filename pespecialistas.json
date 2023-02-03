@@ -1,0 +1,157 @@
+{
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.4",
+    "body": [
+        {
+            "type": "Container",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "auto",
+                            "horizontalAlignment": "Center",
+                            "verticalContentAlignment": "Center",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://i.ibb.co/80B9XB8/RPAicon-50.png",
+                                    "spacing": "None"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "horizontalAlignment": "Left",
+                            "verticalContentAlignment": "Center",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Hola Cesar Castro!",
+                                    "wrap": true,
+                                    "weight": "bolder",
+                                    "size": "extraLarge"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Esta es tu lista de Actividades del Mes",
+                                    "wrap": true,
+                                    "spacing": "None",
+                                    "weight": "Bolder",
+                                    "size": "Medium"
+                                }
+                            ],
+                            "separator": true
+                        }
+                    ],
+                    "separator": true
+                }
+            ],
+            "separator": true
+        },
+        {
+            "type": "Container",
+            "items": [
+                {
+                    "type": "TextBlock",
+                    "text": "[TI5.0.1.1-R0] Informe de situación del Data Center en base a la bitacora",
+                    "wrap": true,
+                    "separator": true,
+                    "weight": "Bolder",
+                    "size": "Medium"
+                },
+                {
+                    "type": "TextBlock",
+                    "text": "Te quedan  2 días | Fecha Final: 30/12/2022",
+                    "wrap": true,
+                    "separator": true,
+                    "horizontalAlignment": "Right",
+                    "spacing": "Small",
+                    "fontType": "Default",
+                    "weight": "Bolder",
+                    "size": "Default"
+                }
+            ],
+            "separator": true,
+            "spacing": "Small",
+            "bleed": false,
+            "style": "accent",
+            "isVisible": true
+        },
+        {
+            "type": "Container",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "auto",
+                            "horizontalAlignment": "Center",
+                            "verticalContentAlignment": "Center",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "url": "https://i.ibb.co/0tWVDzK/RPA-ICONO-removebg-preview.png",
+                                    "size": "Small"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "horizontalAlignment": "Left",
+                            "verticalContentAlignment": "Center",
+                            "id": "columna_RPA_img",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "San Gaban Automate",
+                                    "wrap": true,
+                                    "weight": "Bolder"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "text": "Modelo de Gestión Holístico",
+                                    "wrap": true,
+                                    "spacing": "None",
+                                    "weight": "Bolder"
+                                }
+                            ],
+                            "separator": true
+                        }
+                    ],
+                    "separator": true
+                }
+            ],
+            "separator": true
+        },
+        {
+            "type": "Container",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "width": "stretch",
+                            "items": [
+                                {
+                                    "type": "TextBlock",
+                                    "text": "©Todos los derechos reservados San Gabán S. A. ",
+                                    "wrap": true,
+                                    "weight": "Bolder"
+                                }
+                            ]
+                        }
+                    ],
+                    "separator": true
+                }
+            ],
+            "separator": true
+        }
+    ]
+}

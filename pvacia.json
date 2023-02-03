@@ -1,0 +1,29 @@
+{
+    "type": "Container",
+    "items": [
+        {
+            "type": "TextBlock",
+            "text": "No hay Actividades Pendientes",
+            "wrap": true,
+            "separator": true,
+            "weight": "Bolder",
+            "size": "Medium"
+        },
+        {
+            "type": "TextBlock",
+            "text": "Relájate y descansa un poco",
+            "wrap": true,
+            "separator": true,
+            "horizontalAlignment": "Right",
+            "spacing": "Small",
+            "fontType": "Default",
+            "weight": "Bolder",
+            "size": "Default"
+        }
+    ],
+    "separator": true,
+    "spacing": "Small",
+    "bleed": false,
+    "style": "good",
+    "isVisible": true
+},

@@ -1,0 +1,64 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Pragma": "no-cache",
+        "Transfer-Encoding": "chunked",
+        "Vary": "Accept-Encoding",
+        "x-ms-request-id": "64f3640e-0874-46e3-a573-345c43390d2b;a73d29db-71b2-4fba-b205-f682b5ff760b;8c1ef31d-3699-4233-8c63-7978317e34c7;c6a39baa-d095-4a45-8a72-91195049686f;b7b6eab1-a2e4-40bb-9394-d558df04bb6a;df6bdb37-caed-434b-be40-5635be1f1826",
+        "OData-Version": "4.0",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "Timing-Allow-Origin": "*",
+        "x-ms-apihub-cached-response": "false",
+        "x-ms-apihub-obo": "false",
+        "Cache-Control": "no-store, no-cache",
+        "Date": "Wed, 25 Jan 2023 00:08:25 GMT",
+        "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true",
+        "Expires": "-1",
+        "Content-Length": "1227"
+    },
+    "body": {
+        "@odata.context": "https://excelonline-bs.azconn-bs-001.p.azurewebsites.net/$metadata#drives('b%21_LmSQnHrq0uk1FMvAXn_ar_3jZLixhVGoVYJPDCora24E9FBGSpUTacZnVVZA_72')/Files('01MEZHBUK6ZZTKA4HZARA32NLGK5VVLCHI')/Tables('Tabla4')/items",
+        "value": [
+            {
+                "@odata.etag": "",
+                "ItemInternalId": "1a73d166-ae64-42e6-945d-85ee37bee0c8",
+                "Nro": "70",
+                "Nombres": "MIGUEL ANGEL",
+                "Paterno": "GORDILLO",
+                "Materno": "MOLINA",
+                "Correo": "mgordillo@sangaban.com.pe",
+                "Cargo": "Especialista en Soluciones TI",
+                "Acronimo": "ESTI",
+                "Superior": "JOTIC",
+                "Gerencia": "Gerencia General",
+                "AcronimoGerencia": "GG",
+                "Departamento": "Oficina de Tecnologías de la Información y Comunicaciones",
+                "Estado": "Activo",
+                "Verde": "0",
+                "Amarillo": "0",
+                "Rojo": "0"
+            },
+            {
+                "@odata.etag": "",
+                "ItemInternalId": "df124892-56ca-4135-9f4a-0db9193c24ab",
+                "Nro": "71",
+                "Nombres": "LIZARDO RAFAEL",
+                "Paterno": "LIZARES",
+                "Materno": "PAREDES",
+                "Correo": "llizares@sangaban.com.pe",
+                "Cargo": "Especialista en Producción y Servicios TI ",
+                "Acronimo": "EPSTI",
+                "Superior": "JOTIC",
+                "Gerencia": "Gerencia General",
+                "AcronimoGerencia": "GG",
+                "Departamento": "Oficina de Tecnologías de la Información y Comunicaciones",
+                "Estado": "Activo",
+                "Verde": "0",
+                "Amarillo": "0",
+                "Rojo": "0"
+            }
+        ]
+    }
+}
